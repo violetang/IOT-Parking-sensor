@@ -1,5 +1,6 @@
 # IOT-Parking-sensor
 CSUSM CS697 course project.
+![image](https://user-images.githubusercontent.com/34366585/57555153-60b6f580-7328-11e9-93b5-36f7690ac340.png)
 
 Kit: STM32 Borad, Ultrasonic, Buzzer, breadboard, LED...
 
